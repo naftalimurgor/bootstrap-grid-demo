@@ -1,0 +1,14 @@
+{
+  "name": "Bootsrap_grid",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:naftalimurgor/Bootsrap_grid.git",
+  "author": "naftalimurgor <murgornaftali@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node liveserver.js"
+  },
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
