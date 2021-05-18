@@ -1,0 +1,111 @@
+{
+    "ps4Games": [
+        {
+            "name": "Assasin's Creed",
+            "image": "../items/assasinsCreed.jpg",
+            "price": "3400",
+            "Description": "Multiaction game. with Multiplayer modes. It's the good old Assasin's Creed but much bigger"
+        },
+        {
+            "name": "Assasin's Creed Remake",
+            "image": "../items/assasinsCreed.jpg",
+            "price": "3400",
+            "Description": "Multiaction game. with Multiplayer modes. It's the good old Assassin's creed 2 but much bigger"
+        },
+        {
+            "name": "Call of Duty, World War II",
+            "image": "../items/codWWW2.jpg",
+            "price": "2300",
+            "Description": "Multiaction game. with Multiplayer modes. It's the good old Call of Duty  but in WWII era"
+        },
+        {
+            "name": "Call of Duty, Chernobyl",
+            "image": "../items/codWWW2.jpg",
+            "price": "2300",
+            "Description": "Multiaction game. with Multiplayer modes. It's the good old Call of Duty creed but it's chernobyl"
+        },
+        {
+            "name": "FIFA20",
+            "image": "../items/fifa20.jpg",
+            "price": "1600",
+            "Description": "Get to play soccer. Organize squads, transfer and manage teams. Multiplayer game with fun and action. I forgot Volta football"
+        },
+        {
+            "name": "PES21",
+            "image": "../items/fifa20.jpg",
+            "price": "1600",
+            "Description": "Get to play soccer. Organize squads, transfer and manage teams. Multiplayer game with fun and action. I forgot Volta football"
+        },
+        {
+            "name": "FIFA21",
+            "image": "../items/fifa21.jpg",
+            "price": "1600",
+            "Description": "Get to play soccer. Organize squads, transfer and manage teams. Multiplayer game with fun and action. I forgot Volta football"
+        },
+        {
+            "name": "Ghost Recon",
+            "image": "../items/ghostRecon.jpg",
+            "price": "3400",
+            "Description": "Multiaction game. with Multiplayer modes. It's the good old Ghost Recon but much bigger"
+        },
+        {
+            "name": "Ghost Recon, New York",
+            "image": "../items/ghostRecon.jpg",
+            "price": "3400",
+            "Description": "Multiaction game. with Multiplayer modes. It's the good old Ghost Recon but much bigger"
+        },
+        {
+            "name": "Just Cause 4, Texas",
+            "image": "../items/justCause4.jpg",
+            "price": "3400",
+            "Description": "Multiaction game. with Multiplayer modes. It's the good old Just Cause but much bigger"
+        },
+        {
+            "name": "Just Cause 4, Remake",
+            "image": "../items/justCause4.jpg",
+            "price": "3400",
+            "Description": "Multiaction game. with Multiplayer modes. It's the good old Just Cause but much bigger"
+        },
+        {
+            "name": "Last of Us 4",
+            "image": "../items/lastOfUs.jpg",
+            "price": "3400",
+            "Description": "The world is in the verge of a ravaging pandemic. Yeah, of course. That's what this game is all about :)"
+        },
+        {
+            "name": "Mortal Kombat",
+            "image": "../items/mortalKombat.jpg",
+            "price": "3400",
+            "Description": "Multiaction game. with Multiplayer modes. It's the good old Mortal Kombat but much bigger"
+        },
+        {
+            "name": "Read Dead Redemption",
+            "image": "../items/redDeadRedemtion.jpg",
+            "price": "3400",
+            "Description": "Multiaction game. with Multiplayer modes. It's the good old Read Dead Redemption but much bigger"
+        },
+        {
+            "name": "Read Dead Redemption, Remake",
+            "image": "../items/redDeadRedemtion.jpg",
+            "price": "3400",
+            "Description": "Multiaction game. with Multiplayer modes. It's the good old Red Dead Redemption but much bigger"
+        },
+        {
+            "name": "Unchartered 4",
+            "image": "../items/unchartered4.jpg",
+            "price": "6400",
+            "Description": "Multiaction game. with Multiplayer modes. It's the good uncharted but much bigger"
+        },
+        {
+            "name": "Unchartered 3",
+            "image": "../items/unchartered4.jpg",
+            "price": "6400",
+            "Description": "Multiaction game. with Multiplayer modes. It's the good old Unchartered 3 but much bigger"
+        },  {
+            "name": "Unchartered 2",
+            "image": "../items/unchartered4.jpg",
+            "price": "6400",
+            "Description": "Multiaction game. with Multiplayer modes. It's the good old Unchartered 2 but much bigger"
+        }
+    ]
+}
